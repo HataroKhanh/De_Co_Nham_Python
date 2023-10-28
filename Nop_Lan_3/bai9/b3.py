@@ -1,0 +1,26 @@
+def mot():
+    print('..#')
+    print('.##')
+    print('#.#')
+    print('..#')
+    print('..#')
+def hai():
+    print('###')
+    print('..#')
+    print('###')
+    print('#..')
+    print('###')
+def ba():
+    print('###')
+    print('..#')
+    print('###')
+    print('..#')
+    print('###')
+def khong():
+    print('###')
+    print('#.#')
+    print('#.#')
+    print('#.#')
+    print('###')
+hai(); khong(); hai(); ba()
+hai(); khong; hai(); mot()
