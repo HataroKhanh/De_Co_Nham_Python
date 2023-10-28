@@ -1,0 +1,6 @@
+a=5,b=10
+
+(a<b) and (a+b>20)   False
+(a+5<=b) or (3*a>b)  True
+not (a*a+b*b <=200)  False
+(a+5 != b) or (a*2==10) True

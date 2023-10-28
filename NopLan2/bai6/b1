@@ -1,0 +1,8 @@
+A = 5, B=10
+
+A<B    True
+A+5 <= b True
+A*A+B*B <= 200   True
+3*A>B True
+2*A == B True
+A+5 != B False 
